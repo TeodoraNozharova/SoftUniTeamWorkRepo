@@ -1,2 +1,5 @@
 Testing GitHub/Svn
-Making some changes in the copy
+
+Making some changes in the original file||||||| .r1
+
+Making some changes in the copy>>>>>>> .r3
