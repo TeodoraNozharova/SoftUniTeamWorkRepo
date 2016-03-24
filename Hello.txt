@@ -1,1 +1,2 @@
 Testing GitHub/Svn
+Making some changes in the copy
